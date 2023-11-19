@@ -28,7 +28,7 @@ This is the mono-repo for Manta/Calamari nodes.
 * Calamari: Manta's canary network on Kusama
 * Dolphin: Manta's testnet
 
-## Build Manta/Calamari Node
+## Build Manta/Calamari Node 
 1. Setup environment
   ```bash
   chmod u+x ./scripts/init.sh
